@@ -1,7 +1,7 @@
 ## **Car Maintenance Tracker (REST API GraphQL/React App)**
 
 This is a full-stack project consisting of two applications
-- Back-end application; Built using Node.js/Express.js/MongoDB/GraphQL acting as a REST API [[ Go to folder for more details ]](https://github.com/SheriffKoder/Car-Maintenance-Tracker-RESTful-Graphql/tree/main/car-maint-rest-api-graphQL) built upon my [older repo](https://github.com/SheriffKoder/phase-3/tree/main/projects/car-maint-rest-api-graphQL).
+- Back-end application; Built using Node.js/Express.js/Typescript/MongoDB/GraphQL acting as a REST API [[ Go to folder for more details ]](https://github.com/SheriffKoder/Car-Maintenance-Tracker-RESTful-Graphql/tree/main/car-maint-rest-api-graphQL) built upon my [older repo](https://github.com/SheriffKoder/phase-3/tree/main/projects/car-maint-rest-api-graphQL).
 - Front-end application; Built ReactJS w/ Typescript & TailwindCSS to display UI to the users and access the REST API [[ Go to folder for more details ]](https://github.com/SheriffKoder/Car-Maintenance-Tracker-RESTful-Graphql/tree/main/car-maint--react-rest-graphql) built upon my [older repo](https://github.com/SheriffKoder/phase-3/tree/main/projects/car-maint--react-rest-graphql).
 ##
 >**Description - [[ Live Demo ]](https://carmaint-graphql-react.vercel.app/)**
