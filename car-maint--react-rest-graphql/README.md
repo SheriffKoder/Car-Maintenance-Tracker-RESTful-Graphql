@@ -1,6 +1,6 @@
 # Car-Maintenance's application logic (GraphQL version)
 
-> this information is for understanding the logic and how files link together, not yet for how to use the API.
+> this information is for understanding the logic and how files link together
 
 ## Front-end:
 
@@ -107,8 +107,3 @@ an add or edit request depending on the checkup instance depending if it is new 
 -check user authentication when manipulating checks as done when manipulating the car information
 
 ##
-
-  
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-To learn React, check out the [React documentation](https://reactjs.org/).

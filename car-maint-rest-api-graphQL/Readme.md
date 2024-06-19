@@ -3,7 +3,7 @@
 
 # Car-Maintenance's application logic (GraphQL version)
 
-> this information is for understanding the logic and how files link together, not yet for how to use the API.
+> this information is for understanding the logic and how files link together
 
   
 
@@ -134,9 +134,3 @@ auth: signup, login functions
 -after taking the needed action return the user, userId, userCars, token.
 
 ##
-
-  
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
