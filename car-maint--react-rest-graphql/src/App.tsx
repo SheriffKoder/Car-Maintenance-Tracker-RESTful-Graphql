@@ -12,6 +12,7 @@ import Footer from './components/Footer';
 
 import UserProvider, { userContext } from './context';
 import Layout from './layout';
+import ReadyAPI from './components/misc/ReadyAPI';
 
 
 const App = () => {
@@ -63,6 +64,9 @@ const App = () => {
       
     </Router>
     </UserProvider>
+
+    {/* // an overlay displayed until the API is ready */}
+    <ReadyAPI/>
 
 
 

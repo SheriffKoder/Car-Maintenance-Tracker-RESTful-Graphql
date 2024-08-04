@@ -18,3 +18,12 @@ code {
     monospace;
 }
 
+
+.fadeAnim {
+  animation: contspin 0.75s infinite alternate-reverse linear;
+}
+
+@keyframes contspin {
+  0%{ opacity: 0.5; scale: 1;}
+  100% {opacity: 1; scale: 1.005;}
+}
